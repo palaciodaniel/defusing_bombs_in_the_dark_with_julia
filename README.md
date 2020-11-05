@@ -6,7 +6,7 @@ This is a mini-game that I wrote during a single night in [Julia](https://julial
 
 Honestly, after this experience I will start paying much more attention to Julia, and specifically to [Julia Academy](https://juliaacademy.com/)...
 
-To execute the game, just press the **Launch Binder** icon above, wait until the Jupyter Notebook loads and then select the Cell where all the code is and press **Shift + Enter** every time you want to play.
+To execute the game, just press the **Launch Binder** icon above, wait until the Jupyter Notebook loads (it can take a couple of minutes!) and then select the Cell where all the code is and press **Shift + Enter** every time you want to play.
 
 <p align="center"> 
 <img src="https://images.unsplash.com/photo-1446825597988-2bb4dfd264ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=753&q=80">
